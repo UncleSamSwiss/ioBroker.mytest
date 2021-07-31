@@ -94,6 +94,9 @@ For later updates, the above procedure is not necessary. Just do the following:
 
 ## Changelog
 
+### **WORK IN PROGRESS**
+* (UncleSamSwiss) Added release script
+
 ### 0.0.1
 * (Samuel Weibel) initial release
 
