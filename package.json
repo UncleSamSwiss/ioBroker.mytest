@@ -1,6 +1,6 @@
 {
   "name": "iobroker.mytest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a test for ioBroker dev meeting",
   "author": {
     "name": "Samuel Weibel",

@@ -1,8 +1,20 @@
 {
     "common": {
         "name": "mytest",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "news": {
+            "0.0.3": {
+                "en": "Next release test",
+                "de": "Nächster Release-Test",
+                "ru": "Следующий релизный тест",
+                "pt": "Próximo teste de lançamento",
+                "nl": "Volgende releasetest",
+                "fr": "Test de la prochaine version",
+                "it": "Prossima versione di prova",
+                "es": "Prueba de lanzamiento siguiente",
+                "pl": "Test następnej wersji",
+                "zh-cn": "下一次发布测试"
+            },
             "0.0.2": {
                 "en": "Added release script",
                 "de": "Release-Skript hinzugefügt",
