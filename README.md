@@ -94,6 +94,9 @@ For later updates, the above procedure is not necessary. Just do the following:
 
 ## Changelog
 
+### **WORK IN PROGRESS**
+* (UncleSamSwiss) Next release test
+
 ### 0.0.2 (2021-07-31)
 * (UncleSamSwiss) Added release script
 
