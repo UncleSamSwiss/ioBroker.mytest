@@ -1,8 +1,21 @@
 {
     "common": {
         "name": "mytest",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "news": {
+            "0.0.4": {
+                "en": "Another release test",
+                "de": "Ein weiterer Auslösetest",
+                "ru": "Другое испытание",
+                "pt": "Outro teste de lançamento",
+                "nl": "Nog een release test",
+                "fr": "Un autre essai de libération",
+                "it": "Un altro test di rilascio",
+                "es": "Otra prueba de liberación",
+                "pl": "Kolejny test uwalniania",
+                "uk": "Ще один тест релізу",
+                "zh-cn": "另一个释放测试"
+            },
             "0.0.3": {
                 "en": "Next release test",
                 "de": "Nächster Release-Test",
